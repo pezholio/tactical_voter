@@ -189,7 +189,6 @@ GEM
       actionpack (>= 4.0)
       activesupport (>= 4.0)
       sprockets (>= 3.0.0)
-    sqlite3 (1.4.1)
     standard (0.1.6)
       rubocop (~> 0.75.0)
       rubocop-performance (~> 1.5.0)
@@ -241,7 +240,6 @@ DEPENDENCIES
   selenium-webdriver
   spring
   spring-watcher-listen (~> 2.0.0)
-  sqlite3 (~> 1.4)
   standard
   turbolinks (~> 5)
   twfy
